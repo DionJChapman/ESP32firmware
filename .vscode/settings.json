@@ -1,0 +1,10 @@
+{
+    "gitConfigUser.profiles": [
+        {
+            "label": "Native Bit",
+            "email": "dion.chapman@nbit.biz",
+            "userName": "Dion Chapman",
+            "selected": false
+        }
+    ]
+}
